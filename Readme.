@@ -1,0 +1,4 @@
+Readme. 
+
+Create a node application that will call the Postman API and get the collection and run newman against it. 
+
