@@ -15,7 +15,7 @@ if(postman_key){
     
 axios.get(url,{
     headers: {
-    	'X-API-Key': ''
+    	'X-API-Key': postman_key
   	}
 })
 .then((response) => {
